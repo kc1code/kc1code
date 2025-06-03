@@ -2,7 +2,7 @@
 
 🧠 Computer science student at Galgotias College of Engineering and Technology<br>
 🪻 I love building real-world tech solutions using Python, Machine Learning<br>
-🎯 Currently exploring Deep Learning, AI Chatbots<br>
+🎯 Currently exploring Deep Learning, AI Chatbots and many more<br>
 🌻 Always eager to learn, contribute to open source, and solve challenging problems!<br>
 📸 Can find me on Instagram too(https://www.instagram.com/_kajal_chaudhary_._/)<br>
 
